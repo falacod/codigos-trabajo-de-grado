@@ -5,4 +5,4 @@
 
 The following repository contains some information attached which was taken along the depelopment of this undergraduate work. The repository is divided in differents folders of every block of the following image.
 
-<img src="https://drive.google.com/file/d/1sGC6vkl0tndC0VPt8HgoGVGyAAsPIWON/view?usp=sharing">
+![alt text]{/DiagramaBloques-Definitivo.png}
